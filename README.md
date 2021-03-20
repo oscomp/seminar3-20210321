@@ -1,6 +1,9 @@
 # seminar3-20210321
 
-仓库只读镜像
+原始仓库
+ * [github](https://github.com/oscomp/seminar3-20210321/blob/main/README.md)
+
+只读镜像
  * [gitee](https://gitee.com/oscomp/seminar3-20210321)
  * [gitlab.eduxiji.net](https://gitlab.eduxiji.net/oscomp/seminar3-20210321)
 
