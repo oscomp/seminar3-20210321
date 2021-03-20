@@ -1,5 +1,9 @@
 # seminar3-20210321
 
+仓库只读镜像
+ * [gitee](https://gitee.com/oscomp/seminar3-20210321)
+ * [gitlab.eduxiji.net](https://gitlab.eduxiji.net/oscomp/seminar3-20210321)
+
 本次报告的相关报告内容遵循 [CC BY-SA 署名-相同方式共享 4.0 协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 ## 报告会宣传海报
