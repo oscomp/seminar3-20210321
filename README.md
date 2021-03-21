@@ -12,7 +12,7 @@
 ## 报告会宣传海报
 
  * 2021年全国大学生计算机系统能力大赛[操作系统设计赛技术培训](https://mp.weixin.qq.com/s/TIo4a6q_-c_a6RAUGjMmqg)
- * [2021操作系统比赛 技术报告会](https://x.eqxiu.com/s/4uyAX8qT)：HTML5
+ * [2021操作系统比赛 技术报告会](https://x.eqxiu.com/s/4uyAX8qT)：适合在手机上观看的HTML5格式宣传海报；
 
 ## 报告会日程
 
