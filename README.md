@@ -20,10 +20,10 @@
 
 | 时间        | 报告人 | 标题                              | 幻灯片                                                       | 视频 |
 | ----------- | ------ | --------------------------------- | ------------------------------------------------------------ | ---- |
-| 14:35-15:15 | 陈海波 | 计算机系统教学与研究的一些体会    |                                                              |      |
+| 14:35-15:15 | 陈海波 | 计算机系统教学与研究的一些体会    |[PPTX](https://lexiangla.com/teams/k100041/docs/8681965a945d11eb8eaff2b8d6256e59?company_from=79350bd4d06911ea91f05254002f1020) |      |
 | 15:15-16:00 | 李志锐 | RT-Thread Smart在RISC-V平台的移植 | [PPTX](https://lexiangla.com/teams/k100041/docs/ea31fc08895411ebbaf5268ac2fc28fb?company_from=79350bd4d06911ea91f05254002f1020) |      |
 | 16:00-16:55 | 张根   | 太素OS开发历程                    | [PPTX](https://lexiangla.com/teams/k100041/docs/ea34f778895411eb823a9a3a33d65da3?company_from=79350bd4d06911ea91f05254002f1020) |      |
-| 17:50-18:00 | 包云岗 | 处理器芯片发展新趋势：开源芯片    |                                                              |      |
+| 17:50-18:00 | 包云岗 | 处理器芯片发展新趋势：开源芯片    | [PDF](https://lexiangla.com/teams/k100041/docs/854ff3f8945d11ebb2934a7105b2bc1b?company_from=79350bd4d06911ea91f05254002f1020) |      |
 ## 报告会现场直播链接
 * [极客邦](https://live.infoq.cn/room/752)
 * [CSDN](https://live.csdn.net/room/wl5875/I21w4bCb)
